@@ -8,7 +8,7 @@ public class Main {
     // Main method to run java program
     public static void main(String[] args) {
 
-        // Creating loop to go through numbers [18, 87]
+        // Creating loop to go through numbers (18, 87)
         for (int index = 19; index < 87; index++) {
 
             // Condition
